@@ -1,0 +1,14 @@
+{
+  "current_version": "4.1.0",
+  "minimum_version": "4.1.0",
+  "release_date": "2025-08-13",
+  "download_url": "https://github.com/alanboy520/account-manager/releases/tag/v4.1.0",
+  "changelog": [
+    "优化密码验证功能",
+    "新增版本检查机制",
+    "提升用户体验"
+  ],
+  "file_size": "待计算",
+  "github_username": "alanboy520",
+  "repository_name": "account-manager"
+}
